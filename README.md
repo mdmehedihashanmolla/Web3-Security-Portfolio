@@ -25,9 +25,10 @@ A portfolio of Solidity development, competitive audits, and smart contract secu
 
 ## Solidity Projects
 
-- [Decentralized Crowdfunding](https://github.com/mdmehedihashanmolla/Decentralized-Crowdfunding-)
-- [Agent Payment Escrow](https://github.com/mdmehedihashanmolla/agent-payment-escrow)
-
+| Project | Description | Repository |
+|---|---|---|
+| **Decentralized Crowdfunding** | Solidity-based crowdfunding with on-chain contribution and campaign management. | [View Source](https://github.com/mdmehedihashanmolla/Decentralized-Crowdfunding-) |
+| **Agent Payment Escrow** | ERC-20 escrow with EIP-712 signed payment authorization, replay protection, and deadline-based refunds. | [View Source](https://github.com/mdmehedihashanmolla/agent-payment-escrow-) |
 
 ## 🌐 Connect
 
