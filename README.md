@@ -23,6 +23,11 @@ A portfolio of Solidity development, competitive audits, and smart contract secu
 
 ---
 
+## Solidity Projects
+
+- [Decentralized Crowdfunding](https://github.com/mdmehedihashanmolla/Decentralized-Crowdfunding-)
+- [Agent Payment Escrow](https://github.com/mdmehedihashanmolla/agent-payment-escrow)
+
 
 ## 🌐 Connect
 
