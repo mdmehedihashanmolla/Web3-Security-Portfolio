@@ -1,11 +1,12 @@
 <div align="center">
-  <h1>🛡️ Web3 Security Portfolio</h1>
-  <p><strong>Blockchain Security Researcher</strong></p>
-  <p><strong>EVM • Solidity</strong></p>
+  <h1>🛡️ EVM Smart Contract Engineering & Security</h1>
+  <p><strong>Smart Contract Engineer | Security Researcher</strong></p>
+  <p><strong>Solidity • EVM • Smart Contract Auditing</strong></p>
 </div>
 
 ## 📋 Overview
-A portfolio of competitive audits, shadow audits, and security research across EVM and Solana ecosystems.
+
+A portfolio of Solidity development, competitive audits, and smart contract security research focused on EVM-based protocols.
 ---
 ## 🏆 Competitive Audits
 
@@ -34,8 +35,9 @@ A portfolio of competitive audits, shadow audits, and security research across E
 
 ### 🚀 Open To
 
+- 💻 Solidity / Smart Contract Engineering
 - 🛡️ Smart Contract Security & Auditing
-- 🔬 DeFi Protocol Security Research
-- 🐛 Web3 Security / Bug Bounty Research
+- 🔬 DeFi Protocol Research & Security Analysis
+- 🐛 Smart Contract Bug Bounty Research
 
 ---
